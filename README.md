@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetan Kolhe</h1>
+<h1 align="center">Hey There 👋, I'm Chetan Kolhe</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
 - 🔭 I’m currently working on **website on which we can solve multiple DSA problem**

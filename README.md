@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **website on which we can solve multiple DSA problem**
 
-- 🌱 I’m currently learning **DSA in C++ :) and**
+- 🌱 I’m currently learning **DSA in C++  and  React + Django:) and**
 
-- 🤝 Also I’m currently working on **SmartGalaxy---Mobile-Shop-E-Commerce-Website in PHP**
+- 🤝 Also I’m currently working on **Personal Expense Manager Using MERN**
 
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **Chetankolhe1020@gmail.com**
-
-- 📄 Know about my experiences [#######](#######)
 
 - ⚡ Fun fact **Typing Code is easy but understanding them is:(**
 

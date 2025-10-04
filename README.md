@@ -1,29 +1,4 @@
-<!-- 💀 DARK MODE | MODERN | NEON AESTHETIC -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+Chetan+Kolhe!;Software+Developer+%7C+DSA+Enthusiast+%7C+Learner" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile+Views&color=00ffee&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<h3 align="center">💻 Passionate Computer Science Student & Future Software Developer from India 🌏</h3>
-
----
-
-### 🧠 About Me  
-💡 Currently working on **a website for solving multiple DSA problems**  
-🚀 Learning **DSA in C++**, **React**, and **Django**  
-🧩 Building **Personal Expense Manager (MERN Stack)**  
-🌐 Portfolio: [Visit My Portfolio](https://chetankolhe10.netlify.app)  
-💬 Ask me about **C++ | DSA | Web Dev | React**  
-📩 Reach me at **Chetankolhe1020@gmail.com**  
-⚡ *Typing code is easy; understanding it is the real art!*  
-
----
+<h1 align="center">Hey There 👋, I'm Chetan Kolhe</h1> <h3 align="center">A passionate Computer Science Student & future software developer from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile%20views&color=0e75b6&style=flat" alt="chetankolheai" /> </p> - 🔭 I’m currently working on **website on which we can solve multiple DSA problem** - 🌱 I’m currently learning **DSA in C++ and React + Django:) and** - 🤝 Also I’m currently working on **Personal Expense Manager Using MERN** - ⚡Visit My Personal Portfolio "https://chetankolhe10.netlify.app" - 💬 Ask me about **C++** - 📫 How to reach me **Chetankolhe1020@gmail.com** - ⚡ Fun fact **Typing Code is easy but understanding them is:(
 
 ### 🌐 Connect With Me  
 <p align="center">

@@ -1,66 +1,76 @@
-<h1 align="center">👋 Hey There, I'm Chetan Kolhe</h1>
-<h3 align="center">🚀 Passionate Computer Science Student & Future Software Developer from India</h3>
+<!-- 💀 DARK MODE | MODERN | NEON AESTHETIC -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+Chetan+Kolhe!;Software+Developer+%7C+DSA+Enthusiast+%7C+Learner" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile%20Views&color=0e75b6&style=flat" alt="chetankolheai" />
+  <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile+Views&color=00ffee&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+<h3 align="center">💻 Passionate Computer Science Student & Future Software Developer from India 🌏</h3>
 
 ---
 
 ### 🧠 About Me  
-- 🔭 Currently building: **A website for solving multiple DSA problems**  
-- 🌱 Learning: **DSA in C++**, **React**, and **Django**  
-- 💼 Working on: **Personal Expense Manager (MERN Stack)**  
-- ⚡ Portfolio: [Visit My Portfolio 🚀](https://chetankolhe10.netlify.app)  
-- 💬 Ask me about: **C++ | DSA | Web Dev**  
-- 📫 Reach me at: **Chetankolhe1020@gmail.com**  
-- 😄 Fun fact: *Typing code is easy, understanding it is the real challenge!*  
+💡 Currently working on **a website for solving multiple DSA problems**  
+🚀 Learning **DSA in C++**, **React**, and **Django**  
+🧩 Building **Personal Expense Manager (MERN Stack)**  
+🌐 Portfolio: [Visit My Portfolio](https://chetankolhe10.netlify.app)  
+💬 Ask me about **C++ | DSA | Web Dev | React**  
+📩 Reach me at **Chetankolhe1020@gmail.com**  
+⚡ *Typing code is easy; understanding it is the real art!*  
 
 ---
 
-### 🤝 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/chetan-kolhe-3b9757290" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-</a>
-<a href="https://fb.com/chetan.kolhe.5074" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
-</a>
-<a href="https://instagram.com/____chetan_____10" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
-</a>
-<a href="https://www.leetcode.com/chetankolheam" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
-</a>
-</p>
-
----
-
-### 🧩 Languages & Tools  
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 🌐 3D Touch  
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.10.72/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/TGEd9dsC3qSvZjZw/scene.splinecode"></spline-viewer>
-
----
-
-### 📊 GitHub Stats  
+### 🌐 Connect With Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetankolheai&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chetankolheai&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetankolheai&" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/chetan-kolhe-3b9757290" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  </a>
+  <a href="https://fb.com/chetan.kolhe.5074" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" />
+  </a>
+  <a href="https://instagram.com/____chetan_____10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
+  </a>
+  <a href="https://www.leetcode.com/chetankolheam" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" style="filter: invert(1);" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,bootstrap,arduino,photoshop" />
+</p>
+
+---
+
+### 🎨 3D Vibe  
+<p align="center">
+  <spline-viewer url="https://prod.spline.design/TGEd9dsC3qSvZjZw/scene.splinecode"></spline-viewer>
+</p>
+
+---
+
+### 📊 GitHub Stats (Neon Mode)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chetankolheai&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chetankolheai&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetankolheai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">🔥 "Code. Create. Conquer." 🔥</h3>
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo/profile-3d-contrib/profile-night-green.svg" />
 </p>

@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **website on which we can solve multiple DSA problem**
 
-- 🌱 I’m currently learning **DSA in C++  and  React + Django:) and**
+- 🌱 I’m currently learning **DSA in C++**
 
-- 🤝 Also I’m currently working on **Personal Expense Manager Using MERN**
+- 🤝 Also I’m currently working on **XRayAi An Smart AI Platform For Coders**
 - ⚡Visit My Personal Portfolio "https://chetankolhe10.netlify.app"
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++, APIs, Database Design,React, UI/UX design, and building responsive web apps.**
 
-- 📫 How to reach me **Chetankolhe1020@gmail.com**
+- 📫 How to reach me **Chetankolhe1020@gmail.com  &&  https://chetankolhe10.netlify.app**
 
 - ⚡ Fun fact **Typing Code is easy but understanding them is:(**
 

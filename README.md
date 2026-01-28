@@ -5,15 +5,14 @@
 
 
 
-- 🔭 I’m currently working on **website on which we can solve multiple DSA problem**
+- 🔭 I’m currently developing a web-based platform for visualizing Data Structures and Algorithms (DSA) to enhance learning and understanding.
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱I’m currently learning Full Stack Web Development along with Data Structures and Algorithms (DSA) in C++.
 
-- 🤝 Also I’m currently working on **XRayAi An Smart AI Platform For Coders**
-- ⚡Visit My Personal Portfolio "[https://chetankolhe10.netlify.app](https://chetankolhe1910.vercel.app/)"
-- 💬 Ask me about **C++, APIs, Database Design,React, UI/UX design, and building responsive web apps.**
+- ⚡Visit My Personal Portfolio "[Portfolio-Webapp](https://chetankolhe1910.vercel.app/)"
+- 💬 Ask me about **C++, APIs, Database Design, React, NextJs, JavaScript, UI/UX design, and building responsive web apps.**
 
-- 📫 How to reach me **Chetankolhe1020@gmail.com  &&  [https://chetankolhe10.netlify.app](https://chetankolhe1910.vercel.app/)**
+- 📫 How to reach me **Chetankolhe1020@gmail.com  &&  [Portfolio](https://chetankolhe1910.vercel.app/)**
 
 - ⚡ Fun fact **Typing Code is easy but understanding them is:(**
 

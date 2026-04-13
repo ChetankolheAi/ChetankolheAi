@@ -1,152 +1,74 @@
 <h1 align="center">Hey There 👋, I'm Chetan Kolhe</h1>
 <h3 align="center">A passionate Computer Science Student & future software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile%20views&color=0e75b6&style=flat" alt="chetankolheai" /> </p>
-
-
-
-- 🔭 I’m currently developing a web-based platform for visualizing Data Structures and Algorithms (DSA) to enhance learning and understanding.
-
-- 🌱I’m currently learning Full Stack Web Development along with Data Structures and Algorithms (DSA) in C++.
-
-- ⚡Visit My Personal Portfolio "[Portfolio-Webapp](https://chetankolhe1910.vercel.app/)"
-- 💬 Ask me about **C++, APIs, Database Design, React, NextJs, JavaScript, UI/UX design, and building responsive web apps.**
-
-- 📫 How to reach me **Chetankolhe1020@gmail.com  &&  [Portfolio](https://chetankolhe1910.vercel.app/)**
-
-- ⚡ Fun fact **Typing Code is easy but understanding them is:(**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chetan-kolhe-3b9757290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-kolhe-3b9757290" height="30" width="40" /></a>
-<a href="https://fb.com/chetan.kolhe.5074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chetan.kolhe.5074" height="30" width="40" /></a>
-<a href="https://instagram.com/____chetan_____10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____chetan_____10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chetankolheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetankolheam" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hetankov5ue/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/chetankolheam" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40" width="40" />
-  </a>
-  <!-- Codeforces -->
-   
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-<div align="center">
-     <p align="center">
-</p>
-<h2 align="center">🔥Leetcode Profile<h2>
- 
-<p align="center">  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ChetanKolheAM?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-</div>
-<br/>
-   <p align="center">
-────────── ✦ ──────────
-</p>
-<h2 align="center">🚀 Featured Project</h2>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Developing a web-based platform for visualizing Data Structures and Algorithms (DSA)  
+- 🌱 Learning Full Stack Web Development + DSA in C++  
+- ⚡ Portfolio: https://chetankolhe1910.vercel.app  
+- 💬 Ask me about **C++, React, APIs, DB Design, UI/UX**  
+- 📫 Contact: **Chetankolhe1020@gmail.com**
+
+---
+
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
-  </a>
+<a href="https://linkedin.com/in/chetan-kolhe-3b9757290"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+<a href="https://instagram.com/____chetan_____10"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
+<a href="https://www.leetcode.com/chetankolheam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
+<a href="https://www.hackerrank.com/profile/chetankolheam"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30"/></a>
 </p>
 
- <p align="center">
-</p>
-<h2 align="center">🛠️ Languages and Tools:</h2>
-<!-- Optional: Blackish gradient background for a sleek look -->
-<div style="
-  background: white;
-  border-radius: 15px;
-  display: inline-block;
-">
+---
+
+<h2 align="center">🔥 LeetCode Profile</h2>
+
 <p align="center">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
-  </a>
-  <!-- Programming Languages -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-
-  <!-- Frontend Stack -->
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-
-  <!-- Backend & Database -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
- 
-
+<img src="https://leetcard.jacoblin.cool/ChetanKolheAM?theme=dark&font=Nunito&ext=heatmap" />
 </p>
-</div>
 
+<p align="center">────────── ✦ ──────────</p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+<a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/chetankolheai/PayFlow">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=PayFlow&theme=tokyonight" />
+</a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chetankolheai&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api?username=chetankolheai&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chetankolheai&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetankolheai&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetankolheai&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetankolheai&theme=tokyonight" />
 </p>
-

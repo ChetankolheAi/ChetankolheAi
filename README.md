@@ -32,9 +32,25 @@
    
 </p>
 <h2 align="center">🔥 LeetCode Info 🔥</h2>
-<a href="https://leetcode.com/ChetanKolheAM/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ChetanKolheAM/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+
 <p align="center">
+
+
+  <a href="https://leetcode.com/ChetanKolheAM/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="200"/>
+  </a>
+
+  <a href="https://leetcode.com/ChetanKolheAM/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" height="200"/>
+  </a>
+
+  <!-- October Daily Challenge -->
+  <a href="https://leetcode.com/ChetanKolheAM/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-10.gif" height="200"/>
+  </a>
+
+  <br><br>
+
   <img src="https://leetcard.jacoblin.cool/ChetanKolheAM?theme=dark&font=Baloo%202&ext=heatmap" />
 </p>
 

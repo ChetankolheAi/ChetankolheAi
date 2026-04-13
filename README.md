@@ -37,7 +37,7 @@
 
 
   <a href="https://leetcode.com/ChetanKolheAM/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="200"/>
   </a>
 
   <a href="https://leetcode.com/ChetanKolheAM/" target="_blank">

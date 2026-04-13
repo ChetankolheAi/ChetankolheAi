@@ -41,10 +41,45 @@
 <br/>
 
 <div align="center">
-  <h2>🚀 Featured Project</h2>
-  <p>
+  <h2>🚀 Featured Projects</h2>
+  
+  <p align="center">
     <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+    </a><br/>
+    <a href="https://tic-tac-toe-ai-gamma.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/chetankolheai/Byteguru">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Byteguru&theme=tokyonight" />
+    </a><br/>
+    <a href="https://byteguru.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://github.com/chetankolheai/Byteguru" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/chetankolheai/Personal-Expense-Manager-MERN-Project">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Personal-Expense-Manager-MERN-Project&theme=tokyonight" />
+    </a><br/>
+    <a href="https://expense-manager-mern.render.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=render&logoColor=white" />
+    </a>
+    <a href="https://github.com/chetankolheai/Personal-Expense-Manager-MERN-Project" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </div>

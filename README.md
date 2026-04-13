@@ -40,9 +40,28 @@
 </p>
 </div>
 <br/>
-<a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
-</a>
+    
+<h2 align="center">🚀 Featured Project</h2>
+
+<p align="center">
+  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+  </a>
+</p>
+
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Optional: Blackish gradient background for a sleek look -->
 <div style="

@@ -41,7 +41,8 @@
 </p>
 </div>
 <br/>
-     <p align="center">
+   <p align="center">
+────────── ✦ ──────────
 </p>
 <h2 align="center">🚀 Featured Project</h2>
 
@@ -65,14 +66,14 @@
 
  <p align="center">
 </p>
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h2 align="center">🛠️ Languages and Tools:</h2>
 <!-- Optional: Blackish gradient background for a sleek look -->
 <div style="
   background: white;
   border-radius: 15px;
   display: inline-block;
 ">
-<p align="left">
+<p align="center">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>

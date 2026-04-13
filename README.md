@@ -113,9 +113,14 @@
 </div>
 
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetankolheai&show_icons=true&locale=en&layout=compact" alt="chetankolheai" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetankolheai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetankolheai&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetankolheai&show_icons=true&locale=en" alt="chetankolheai" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetankolheai&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetankolheai&" alt="chetankolheai" /></p>

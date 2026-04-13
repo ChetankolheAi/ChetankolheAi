@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile%20views&color=0e75b6&style=flat" alt="chetankolheai" />
   </p>
 </div>
+---
 ### 🔭 Currently Working On
 - I’m currently developing a web-based platform for visualizing **Data Structures and Algorithms (DSA)** to enhance learning and understanding.
 - 🌱 I’m currently learning **Full Stack Web Development** along with **DSA in C++**.

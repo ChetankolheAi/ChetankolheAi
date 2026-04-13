@@ -31,6 +31,8 @@
   <!-- Codeforces -->
    
 </p>
+## 🔥 LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/ChetanKolheAM?theme=dark&font=Baloo%202&ext=heatmap)
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Optional: Blackish gradient background for a sleek look -->

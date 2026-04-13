@@ -32,15 +32,17 @@
    
 </p>
 <div align="center">
-<h2 align="center">🔥Leetcode Profile<h2>
-  <p align="center">
+     <p align="center">
 </p>
+<h2 align="center">🔥Leetcode Profile<h2>
+ 
 <p align="center">  
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ChetanKolheAM?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 </div>
 <br/>
-    
+     <p align="center">
+</p>
 <h2 align="center">🚀 Featured Project</h2>
 
 <p align="center">
@@ -61,7 +63,8 @@
   </a>
 </p>
 
-
+ <p align="center">
+</p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Optional: Blackish gradient background for a sleek look -->
 <div style="

@@ -6,16 +6,18 @@
     <img src="https://komarev.com/ghpvc/?username=chetankolheai&label=Profile%20views&color=0e75b6&style=flat" alt="chetankolheai" />
   </p>
 </div>
----
-### 🔭 Currently Working On
-- I’m currently developing a web-based platform for visualizing **Data Structures and Algorithms (DSA)** to enhance learning and understanding.
-- 🌱 I’m currently learning **Full Stack Web Development** along with **DSA in C++**.
-- ⚡ Visit My Personal Portfolio: [**Portfolio-Webapp**](https://chetankolhe1910.vercel.app/)
-- 💬 Ask me about: **C++, APIs, Database Design, React, NextJs, JavaScript, UI/UX design, and building responsive web apps.**
-- 📫 How to reach me: **Chetankolhe1020@gmail.com** && [**Portfolio**](https://chetankolhe1910.vercel.app/)
-- ⚡ Fun fact: **Typing Code is easy but understanding them is :(**
 
----
+- 🔭 I’m currently developing a web-based platform for visualizing Data Structures and Algorithms (DSA) to enhance learning and understanding.
+
+- 🌱I’m currently learning Full Stack Web Development along with Data Structures and Algorithms (DSA) in C++.
+
+- ⚡Visit My Personal Portfolio "[Portfolio-Webapp](https://chetankolhe1910.vercel.app/)"
+- 💬 Ask me about **C++, APIs, Database Design, React, NextJs, JavaScript, UI/UX design, and building responsive web apps.**
+
+- 📫 How to reach me **Chetankolhe1020@gmail.com  &&  [Portfolio](https://chetankolhe1910.vercel.app/)**
+
+- ⚡ Fun fact **Typing Code is easy but understanding them is:(**
+
 
 <div align="left">
   <h3>Connect with me:</h3>

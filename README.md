@@ -40,8 +40,8 @@
 </p>
 </div>
 <br/>
-    <a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
+<a href="https://github.com/chetankolheai/Tic-Tac-Toe-Ai">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=chetankolheai&repo=Tic-Tac-Toe-Ai&theme=tokyonight" />
 </a>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Optional: Blackish gradient background for a sleek look -->

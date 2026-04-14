@@ -42,7 +42,7 @@
 
 <div align="center">
 
-  <h2>🚀 Featured Project</h2>
+  <h2>🚀 Featured Projects</h2>
 
   <p>
 

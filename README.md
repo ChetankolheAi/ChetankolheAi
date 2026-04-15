@@ -19,7 +19,7 @@
 - ⚡ Fun fact **Typing Code is easy but understanding them is:(**
 
 
-
+<div align="left">
   <h3>Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/chetan-kolhe-3b9757290">
@@ -41,7 +41,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
   </a>
 </p>
-
+</div>
 <br/>
 
 <div align="center">

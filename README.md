@@ -21,15 +21,26 @@
 
 
   <h3>Connect with me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/chetan-kolhe-3b9757290" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-    <a href="https://fb.com/chetan.kolhe.5074" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-    <a href="https://instagram.com/____chetan_____10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/chetankolheam" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/hetankov5ue/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="35" width="40" /></a>
-    <a href="https://www.hackerrank.com/profile/chetankolheam" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="35" width="40" /></a>
-  </p>
-
+<p align="left">
+  <a href="https://linkedin.com/in/chetan-kolhe-3b9757290">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+  </a>
+  <a href="https://fb.com/chetan.kolhe.5074">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
+  </a>
+  <a href="https://instagram.com/____chetan_____10">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+  </a>
+  <a href="https://www.leetcode.com/chetankolheam">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/hetankov5ue/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/chetankolheam">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
+  </a>
+</p>
 
 <br/>
 

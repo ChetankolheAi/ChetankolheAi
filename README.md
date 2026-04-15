@@ -23,7 +23,7 @@
   <h3>Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/chetan-kolhe-3b9757290">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" hspace="10"//>
   </a>
   <a href="https://fb.com/chetan.kolhe.5074">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
